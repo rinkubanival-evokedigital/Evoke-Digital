@@ -1,7 +1,7 @@
 export default function sitemap() {
   return [
     {
-      url: "https://https://evokedigital.co.in//",
+      url: "https://www.evokedigital.co.in/",
       lastModified: new Date(),
       changeFrequency: "daily",
       priority: 1.0,
