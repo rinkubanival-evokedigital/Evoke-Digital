@@ -1,9 +1,8 @@
-
-
 import { Geist, Geist_Mono } from "next/font/google";
+import Script from "next/script";
 import SmoothScroll from "@/components/SmoothScroll";
-import "./globals.css";
 import Whatsapp from "@/components/Whatsapp";
+import "./globals.css";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -17,30 +16,24 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Evoke Digital – Top Digital Marketing Agency | SEO, Ads & Branding",
-  description: "Evoke Digital is a digital marketing agency offering SEO, social media, ads, websites, and branding—helping businesses grow with data-driven results and strong ROI.",
+  description:
+    "Evoke Digital is a digital marketing agency offering SEO, social media, ads, websites, and branding—helping businesses grow with data-driven results and strong ROI.",
 };
 
 export default function RootLayout({ children }) {
   return (
-     <html lang="en" suppressHydrationWarning>
+    <html lang="en" suppressHydrationWarning>
       <body
         suppressHydrationWarning
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <SmoothScroll>
-        {children}
-        <Whatsapp />
+          {children}
+          <Whatsapp />
+        </SmoothScroll>
 
-        
-<link
-  rel="preload"
-  href="/_next/static/css/some-important.css"
-  as="style"
-/>
-<link rel="stylesheet" href="/_next/static/css/some-important.css" />
-</SmoothScroll>
-
- <Script
+        {/* Google Analytics */}
+        <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-V6LLN5HMDT"
           strategy="afterInteractive"
         />
@@ -52,7 +45,6 @@ export default function RootLayout({ children }) {
             gtag('config', 'G-V6LLN5HMDT');
           `}
         </Script>
-
       </body>
     </html>
   );
