@@ -69,4 +69,4 @@ User-agent: DotBot
 Disallow: /
 
 
-Sitemap: https://https://evokedigital.co.in//sitemap.xml
+Sitemap: https://evokedigital.co.in/sitemap.xml
