@@ -1034,7 +1034,7 @@ function LogoSlider() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo1.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 27,
@@ -1042,7 +1042,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo2.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 28,
@@ -1050,50 +1050,146 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo3.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 29,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                        src: "/logo/logo1.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        src: "/logo/logo4.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 30,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                        src: "/logo/logo2.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        src: "/logo/logo5.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 31,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                        src: "/logo/logo3.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        src: "/logo/logo1.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 32,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                        src: "/logo/logo1.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        src: "/logo/logo2.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 33,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                        src: "/logo/logo2.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-30 mx-10 inline-block"
+                        src: "/logo/logo3.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 34,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo4.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 35,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo5.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 36,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo1.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 37,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo2.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 38,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo3.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 39,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo4.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 40,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo5.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 41,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo1.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 42,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo2.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 43,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo3.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 44,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo4.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 45,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
+                        src: "/logo/logo5.png",
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                    }, void 0, false, {
+                        fileName: "[project]/src/components/Logoslider.jsx",
+                        lineNumber: 46,
                         columnNumber: 9
                     }, this)
                 ]
@@ -1106,7 +1202,7 @@ function LogoSlider() {
                 className: "jsx-e646604b9bc598d1" + " " + "pointer-events-none absolute right-0 top-0 h-full w-32 bg-gradient-to-r from-transparent to-white z-10"
             }, void 0, false, {
                 fileName: "[project]/src/components/Logoslider.jsx",
-                lineNumber: 38,
+                lineNumber: 50,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {

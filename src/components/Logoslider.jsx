@@ -24,14 +24,26 @@ export default function LogoSlider() {
           animation: "slide 35s linear infinite",
         }}
       >
-        <img src="/logo/logo1.png" className="h-30 mx-10 inline-block" />
-        <img src="/logo/logo2.png" className="h-30 mx-10 inline-block" />
-        <img src="/logo/logo3.png" className="h-30 mx-10 inline-block" />          
-        <img src="/logo/logo1.png" className="h-30 mx-10 inline-block" />
-        <img src="/logo/logo2.png" className="h-30 mx-10 inline-block" />
-        <img src="/logo/logo3.png" className="h-30 mx-10 inline-block" />
-        <img src="/logo/logo1.png" className="h-30 mx-10 inline-block" />
-        <img src="/logo/logo2.png" className="h-30 mx-10 inline-block" />
+        <img src="/logo/logo1.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo2.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo3.png" className="h-40 mx-10 inline-block" />          
+        <img src="/logo/logo4.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo5.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo1.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo2.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo3.png" className="h-40 mx-10 inline-block" />          
+        <img src="/logo/logo4.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo5.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo1.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo2.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo3.png" className="h-40 mx-10 inline-block" />          
+        <img src="/logo/logo4.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo5.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo1.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo2.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo3.png" className="h-40 mx-10 inline-block" />          
+        <img src="/logo/logo4.png" className="h-40 mx-10 inline-block" />
+        <img src="/logo/logo5.png" className="h-40 mx-10 inline-block" />
       </div>
 
       {/* Gradient Right */}
