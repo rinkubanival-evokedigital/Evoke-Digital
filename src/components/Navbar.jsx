@@ -236,6 +236,7 @@ export default function Navbar() {
           <div className="relative">
             <button
               className="hover:text-orange-400 transition"
+              aria-label="Open menu"
               onClick={() => setSearchOpen(!searchOpen)}
             >
               <Search className="w-5 h-5" />
@@ -278,7 +279,7 @@ export default function Navbar() {
           </div>
 
           {/* Mobile toggle */}
-          <button className="md:hidden" onClick={toggleMobileMenu}>
+          <button className="md:hidden" aria-label="Open menu" onClick={toggleMobileMenu}>
             {mobileOpen ? (
               <X className="w-6 h-6" />
             ) : (

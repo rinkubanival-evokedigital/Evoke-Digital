@@ -107,6 +107,7 @@ export default function Whatspp() {
       {!open && (
         <button
           onClick={() => setOpen(true)}
+          aria-label="Whatsapp"
           className="fixed bottom-6 right-6 bg-orange-500 text-white p-4 rounded-2xl shadow-2xl hover:scale-105 transition z-50"
         >
           <MessageCircle size={26} />
@@ -152,12 +153,14 @@ export default function Whatspp() {
               <button
                 onClick={toggleTheme}
                 className="p-1 rounded-md hover:bg-white/10 transition"
+                aria-label="Whatsapp"
               >
                 {dark ? <Sun size={16} /> : <Moon size={16} />}
               </button>
 
               <button
                 onClick={() => setOpen(false)}
+                aria-label="Whatsapp"
                 className="p-1 rounded-md hover:bg-white/10 transition"
               >
                 <X size={18} />
@@ -228,6 +231,7 @@ export default function Whatspp() {
                 <button
                   key={q}
                   onClick={() => handleQuickReply(q)}
+                  aria-label="Whatsapp"
                   className={`text-xs px-3 py-1 rounded-full border hover:scale-[1.02] transition
                     ${
                       dark
@@ -271,6 +275,7 @@ export default function Whatspp() {
 
               <button
                 onClick={() => handleSend(true)}
+                aria-label="Whatsapp"
                 className="p-2 rounded-2xl bg-orange-500 hover:bg-orange-600 text-white transition"
               >
                 <Send size={16} />
