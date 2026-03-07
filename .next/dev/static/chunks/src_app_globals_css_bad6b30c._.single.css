@@ -1189,10 +1189,6 @@
     height: calc(var(--spacing) * 24);
   }
 
-  .h-30 {
-    height: calc(var(--spacing) * 30);
-  }
-
   .h-32 {
     height: calc(var(--spacing) * 32);
   }
@@ -1203,10 +1199,6 @@
 
   .h-48 {
     height: calc(var(--spacing) * 48);
-  }
-
-  .h-50 {
-    height: calc(var(--spacing) * 50);
   }
 
   .h-52 {
@@ -4289,13 +4281,13 @@
   }
 
   @media (hover: hover) {
-    .hover\:bg-orange-500\/20:hover {
-      background-color: #fe6e0033;
+    .hover\:bg-orange-500\/60:hover {
+      background-color: #fe6e0099;
     }
 
     @supports (color: color-mix(in lab, red, red)) {
-      .hover\:bg-orange-500\/20:hover {
-        background-color: color-mix(in oklab, var(--color-orange-500) 20%, transparent);
+      .hover\:bg-orange-500\/60:hover {
+        background-color: color-mix(in oklab, var(--color-orange-500) 60%, transparent);
       }
     }
   }

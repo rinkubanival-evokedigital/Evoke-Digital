@@ -54,7 +54,7 @@ export default function HeroBanner({
           <a
             href={ctaHref}
             // Adjusted CTA padding for a slightly larger, more accessible button
-            className="inline-block rounded-full border border-orange-400 px-8 py-3 text-base font-medium text-white transition-colors hover:border-orange-300 hover:bg-orange-500/20 focus:outline-none focus:ring-2 focus:ring-orange-400/60"
+            className="inline-block rounded-full border border-orange-400 px-8 py-3 text-base font-medium text-white transition-colors hover:border-orange-300 hover:bg-orange-500/60 focus:outline-none focus:ring-2 focus:ring-orange-400/60"
           >
             {ctaText}
           </a>

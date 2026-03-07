@@ -129,15 +129,15 @@ function Navbar() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                id: "2d1d71d62a8f3c8c",
+                id: "86f9d0a4a57c15a2",
                 children: '.underline-anim{display:inline-block;position:relative}.underline-anim:after{content:"";background-color:#f97316;width:0%;height:2px;transition:width .3s ease-in-out;position:absolute;bottom:-2px;left:0}.underline-anim:hover:after{width:100%}'
             }, void 0, false, void 0, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
                 ref: navbarRef,
-                className: "jsx-2d1d71d62a8f3c8c" + " " + "bg-black text-white fixed top-0 w-full z-50 border-b border-gray-800",
+                className: "jsx-86f9d0a4a57c15a2" + " " + "bg-black text-white fixed top-0 w-full z-50 border-b border-gray-800",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-2d1d71d62a8f3c8c" + " " + "flex items-center justify-between max-w-7xl mx-auto px-6 py-4",
+                        className: "jsx-86f9d0a4a57c15a2" + " " + "flex items-center justify-between max-w-7xl mx-auto px-6 py-4",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                 href: "/",
@@ -147,7 +147,7 @@ function Navbar() {
                                     alt: "Logo",
                                     width: "160",
                                     height: "60",
-                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "transition-transform hover:scale-105"
+                                    className: "jsx-86f9d0a4a57c15a2" + " " + "transition-transform hover:scale-105"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Navbar.jsx",
                                     lineNumber: 105,
@@ -159,7 +159,7 @@ function Navbar() {
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "jsx-2d1d71d62a8f3c8c" + " " + "hidden md:flex items-center space-x-8 text-1xl font-medium tracking-wide",
+                                className: "jsx-86f9d0a4a57c15a2" + " " + "hidden md:flex items-center space-x-8 text-1xl font-medium tracking-wide",
                                 children: [
                                     {
                                         label: "Digital Marketing",
@@ -185,7 +185,7 @@ function Navbar() {
                                         children: [
                                             item.label,
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "jsx-2d1d71d62a8f3c8c" + " " + "absolute left-0 -bottom-0.5 w-0 h-[2px] bg-orange-500 group-hover:w-full transition-all duration-300"
+                                                className: "jsx-86f9d0a4a57c15a2" + " " + "absolute left-0 -bottom-0.5 w-0 h-[2px] bg-orange-500 group-hover:w-full transition-all duration-300"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Navbar.jsx",
                                                 lineNumber: 130,
@@ -197,14 +197,14 @@ function Navbar() {
                                         lineNumber: 123,
                                         columnNumber: 15
                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "jsx-2d1d71d62a8f3c8c",
+                                        className: "jsx-86f9d0a4a57c15a2",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                 onClick: ()=>toggleDropdown(item.id),
-                                                className: "jsx-2d1d71d62a8f3c8c" + " " + `flex items-center space-x-1 pb-1 transition ${activeDropdown === item.id ? "text-orange-400 border-b-2 border-orange-500" : "hover:text-orange-400"}`,
+                                                className: "jsx-86f9d0a4a57c15a2" + " " + `flex items-center space-x-1 pb-1 transition ${activeDropdown === item.id ? "text-orange-400 border-b-2 border-orange-500" : "hover:text-orange-400"}`,
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "jsx-2d1d71d62a8f3c8c",
+                                                        className: "jsx-86f9d0a4a57c15a2",
                                                         children: item.label
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Navbar.jsx",
@@ -225,15 +225,15 @@ function Navbar() {
                                                 columnNumber: 17
                                             }, this),
                                             activeDropdown === item.id && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "jsx-2d1d71d62a8f3c8c" + " " + "absolute left-0 top-full p w-screen bg-[#1C1C1C] text-white pt-28 pb-10 px-20 shadow-2xl border-t border-gray-800",
+                                                className: "jsx-86f9d0a4a57c15a2" + " " + "absolute left-0 top-full p w-screen bg-[#1C1C1C] text-white pt-28 pb-10 px-20 shadow-2xl border-t border-gray-800",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-10 text-sm leading-relaxed",
+                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-10 text-sm leading-relaxed",
                                                     children: [
                                                         item.id === "what-we-do" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "jsx-2d1d71d62a8f3c8c",
+                                                            className: "jsx-86f9d0a4a57c15a2",
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "text-orange-500 text-2xl mb-3 underline-anim",
+                                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "text-orange-500 text-2xl mb-3 underline-anim",
                                                                     children: "Digital Marketing"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/Navbar.jsx",
@@ -241,7 +241,7 @@ function Navbar() {
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "space-y-2",
+                                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "space-y-2",
                                                                     children: [
                                                                         {
                                                                             label: "SEO & SEM",
@@ -264,7 +264,7 @@ function Navbar() {
                                                                             href: "/pm"
                                                                         }
                                                                     ].map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                            className: "jsx-2d1d71d62a8f3c8c",
+                                                                            className: "jsx-86f9d0a4a57c15a2",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                                                 href: link.href,
                                                                                 className: "underline-anim",
@@ -292,10 +292,10 @@ function Navbar() {
                                                             columnNumber: 25
                                                         }, this),
                                                         item.id === "Creative Studio" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "jsx-2d1d71d62a8f3c8c",
+                                                            className: "jsx-86f9d0a4a57c15a2",
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "text-orange-500 text-2xl mb-3 underline-anim",
+                                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "text-orange-500 text-2xl mb-3 underline-anim",
                                                                     children: "Creative Studio"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/Navbar.jsx",
@@ -303,7 +303,7 @@ function Navbar() {
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "space-y-2",
+                                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "space-y-2",
                                                                     children: [
                                                                         {
                                                                             label: "Web & App Design",
@@ -322,7 +322,7 @@ function Navbar() {
                                                                             href: "/cgi"
                                                                         }
                                                                     ].map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                            className: "jsx-2d1d71d62a8f3c8c",
+                                                                            className: "jsx-86f9d0a4a57c15a2",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                                                 href: link.href,
                                                                                 className: "underline-anim",
@@ -350,10 +350,10 @@ function Navbar() {
                                                             columnNumber: 25
                                                         }, this),
                                                         item.id === "who-we-are" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                            className: "jsx-2d1d71d62a8f3c8c",
+                                                            className: "jsx-86f9d0a4a57c15a2",
                                                             children: [
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "text-orange-500 text-2xl mb-3 underline-anim",
+                                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "text-orange-500 text-2xl mb-3 underline-anim",
                                                                     children: "About Us"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/Navbar.jsx",
@@ -361,7 +361,7 @@ function Navbar() {
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "space-y-2",
+                                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "space-y-2",
                                                                     children: [
                                                                         {
                                                                             label: "Our Story",
@@ -376,7 +376,7 @@ function Navbar() {
                                                                             href: "/history"
                                                                         }
                                                                     ].map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                            className: "jsx-2d1d71d62a8f3c8c",
+                                                                            className: "jsx-86f9d0a4a57c15a2",
                                                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                                                 href: link.href,
                                                                                 className: "underline-anim",
@@ -426,14 +426,14 @@ function Navbar() {
                                 columnNumber: 9
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "jsx-2d1d71d62a8f3c8c" + " " + "flex items-center space-x-6",
+                                className: "jsx-86f9d0a4a57c15a2" + " " + "flex items-center space-x-6",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "jsx-2d1d71d62a8f3c8c" + " " + "relative",
+                                        className: "jsx-86f9d0a4a57c15a2" + " " + "relative",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                 onClick: ()=>setSearchOpen(!searchOpen),
-                                                className: "jsx-2d1d71d62a8f3c8c" + " " + "hover:text-orange-400 transition",
+                                                className: "jsx-86f9d0a4a57c15a2" + " " + "hover:text-orange-400 transition",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$search$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__Search$3e$__["Search"], {
                                                     className: "w-5 h-5"
                                                 }, void 0, false, {
@@ -447,17 +447,17 @@ function Navbar() {
                                                 columnNumber: 13
                                             }, this),
                                             searchOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "jsx-2d1d71d62a8f3c8c" + " " + "absolute right-full top-0 mr-2 bg-[#1C1C1C] border border-gray-700 rounded-md p-3 w-64 shadow-lg",
+                                                className: "jsx-86f9d0a4a57c15a2" + " " + "absolute right-full top-0 mr-2 bg-[#1C1C1C] border border-gray-700 rounded-md p-3 w-64 shadow-lg",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
                                                         onSubmit: handleSearchSubmit,
-                                                        className: "jsx-2d1d71d62a8f3c8c",
+                                                        className: "jsx-86f9d0a4a57c15a2",
                                                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
                                                             type: "text",
                                                             placeholder: "Search...",
                                                             value: searchQuery,
                                                             onChange: (e)=>setSearchQuery(e.target.value),
-                                                            className: "jsx-2d1d71d62a8f3c8c" + " " + "w-full bg-transparent border-b border-gray-600 focus:border-orange-400 outline-none p-1 text-sm"
+                                                            className: "jsx-86f9d0a4a57c15a2" + " " + "w-full bg-transparent border-b border-gray-600 focus:border-orange-400 outline-none p-1 text-sm"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/Navbar.jsx",
                                                             lineNumber: 248,
@@ -469,15 +469,15 @@ function Navbar() {
                                                         columnNumber: 17
                                                     }, this),
                                                     filteredPages.length > 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                        className: "jsx-2d1d71d62a8f3c8c" + " " + "mt-2 space-y-1 text-sm",
+                                                        className: "jsx-86f9d0a4a57c15a2" + " " + "mt-2 space-y-1 text-sm",
                                                         children: filteredPages.map((page)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                className: "jsx-2d1d71d62a8f3c8c",
+                                                                className: "jsx-86f9d0a4a57c15a2",
                                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                                                     onClick: ()=>{
                                                                         router.push(page.path);
                                                                         closeMenus();
                                                                     },
-                                                                    className: "jsx-2d1d71d62a8f3c8c" + " " + "w-full text-left hover:text-orange-400 transition",
+                                                                    className: "jsx-86f9d0a4a57c15a2" + " " + "w-full text-left hover:text-orange-400 transition",
                                                                     children: page.name
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/Navbar.jsx",
@@ -495,7 +495,7 @@ function Navbar() {
                                                         columnNumber: 19
                                                     }, this),
                                                     searchQuery && filteredPages.length === 0 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                        className: "jsx-2d1d71d62a8f3c8c" + " " + "text-gray-400 text-sm mt-2",
+                                                        className: "jsx-86f9d0a4a57c15a2" + " " + "text-gray-400 text-sm mt-2",
                                                         children: "No results found."
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Navbar.jsx",
@@ -516,7 +516,7 @@ function Navbar() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         onClick: toggleMobileMenu,
-                                        className: "jsx-2d1d71d62a8f3c8c" + " " + "md:hidden",
+                                        className: "jsx-86f9d0a4a57c15a2" + " " + "md:hidden",
                                         children: mobileOpen ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__["X"], {
                                             className: "w-6 h-6"
                                         }, void 0, false, {
@@ -527,13 +527,13 @@ function Navbar() {
                                             fill: "none",
                                             stroke: "currentColor",
                                             viewBox: "0 0 24 24",
-                                            className: "jsx-2d1d71d62a8f3c8c" + " " + "w-6 h-6",
+                                            className: "jsx-86f9d0a4a57c15a2" + " " + "w-6 h-6",
                                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                                                 strokeLinecap: "round",
                                                 strokeLinejoin: "round",
                                                 strokeWidth: 2,
                                                 d: "M4 6h16M4 12h16M4 18h16",
-                                                className: "jsx-2d1d71d62a8f3c8c"
+                                                className: "jsx-86f9d0a4a57c15a2"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Navbar.jsx",
                                                 lineNumber: 291,
@@ -562,7 +562,7 @@ function Navbar() {
                         columnNumber: 7
                     }, this),
                     mobileOpen && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "jsx-2d1d71d62a8f3c8c" + " " + "md:hidden bg-black border-t border-gray-800 py-4 px-6 space-y-4",
+                        className: "jsx-86f9d0a4a57c15a2" + " " + "md:hidden bg-black border-t border-gray-800 py-4 px-6 space-y-4",
                         children: [
                             {
                                 label: "Digital Marketing",
@@ -635,16 +635,16 @@ function Navbar() {
                                 ]
                             }
                         ].map((item)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "jsx-2d1d71d62a8f3c8c",
+                                className: "jsx-86f9d0a4a57c15a2",
                                 children: item.links ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                    className: "jsx-2d1d71d62a8f3c8c",
+                                    className: "jsx-86f9d0a4a57c15a2",
                                     children: [
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                             onClick: ()=>setActiveDropdown(activeDropdown === item.id ? null : item.id),
-                                            className: "jsx-2d1d71d62a8f3c8c" + " " + "flex justify-between w-full items-center text-left hover:text-orange-400",
+                                            className: "jsx-86f9d0a4a57c15a2" + " " + "flex justify-between w-full items-center text-left hover:text-orange-400",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                    className: "jsx-2d1d71d62a8f3c8c",
+                                                    className: "jsx-86f9d0a4a57c15a2",
                                                     children: item.label
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/Navbar.jsx",
@@ -665,7 +665,7 @@ function Navbar() {
                                             columnNumber: 19
                                         }, this),
                                         activeDropdown === item.id && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                            className: "jsx-2d1d71d62a8f3c8c" + " " + "pl-4 mt-2 space-y-2 text-sm border-l border-gray-700",
+                                            className: "jsx-86f9d0a4a57c15a2" + " " + "pl-4 mt-2 space-y-2 text-sm border-l border-gray-700",
                                             children: item.links.map((link)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
                                                     href: link.href,
                                                     className: "block hover:text-orange-400",
@@ -751,14 +751,14 @@ const TeamCarousel = ()=>{
     const teamMembers = [
         {
             name: "Rohit Kumar",
-            role: "Founder"
+            role: "Co-Founder"
+        },
+        {
+            name: "Priyanka Gupta",
+            role: "Co-Founder"
         },
         {
             name: "Ayushi Garg",
-            role: "Visual Designer"
-        },
-        {
-            name: "Emma Rodriguez",
             role: "Lead Developer"
         },
         {
@@ -837,10 +837,10 @@ const TeamCarousel = ()=>{
         return 'hidden';
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "jsx-a26c7a8607bba6d9" + " " + "min-h-screen flex flex-col items-center justify-center bg-gray-100 overflow-hidden relative",
+        className: "jsx-46a7749cd42525a1" + " " + "min-h-screen flex flex-col items-center justify-center bg-gray-100 overflow-hidden relative",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                className: "jsx-a26c7a8607bba6d9" + " " + "text-8xl font-black uppercase tracking-tighter absolute top-12 left-1/2 transform -translate-x-1/2 pointer-events-none whitespace-nowrap font-sans bg-gradient-to-b from-orange-500/35 to-transparent bg-clip-text text-transparent",
+                className: "jsx-46a7749cd42525a1" + " " + "text-8xl font-black uppercase tracking-tighter absolute top-12 left-1/2 transform -translate-x-1/2 pointer-events-none whitespace-nowrap font-sans bg-gradient-to-b from-orange-500/35 to-transparent bg-clip-text text-transparent",
                 children: "OUR TEAM"
             }, void 0, false, {
                 fileName: "[project]/src/components/Team.jsx",
@@ -848,11 +848,11 @@ const TeamCarousel = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "jsx-a26c7a8607bba6d9" + " " + "w-full max-w-6xl h-[450px] relative perspective-1000 mt-20",
+                className: "jsx-46a7749cd42525a1" + " " + "w-full max-w-6xl h-[450px] relative perspective-1000 mt-20",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                         onClick: ()=>updateCarousel(currentIndex - 1),
-                        className: "jsx-a26c7a8607bba6d9" + " " + "absolute top-1/2 -translate-y-1/2 left-5 bg-black text-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer z-20 transition-all duration-300 text-xl pb-1 hover:bg-orange-500 hover:scale-110",
+                        className: "jsx-46a7749cd42525a1" + " " + "absolute top-1/2 -translate-y-1/2 left-5 bg-black text-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer z-20 transition-all duration-300 text-xl pb-1 hover:bg-orange-500 hover:scale-110",
                         children: "‹"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Team.jsx",
@@ -863,23 +863,23 @@ const TeamCarousel = ()=>{
                         onTouchStart: handleTouchStart,
                         onTouchMove: handleTouchMove,
                         onTouchEnd: handleTouchEnd,
-                        className: "jsx-a26c7a8607bba6d9" + " " + "w-full h-full flex justify-center items-center relative transform-style-preserve-3d transition-transform duration-800 ease-[cubic-bezier(0.25,0.46,0.45,0.94)]",
+                        className: "jsx-46a7749cd42525a1" + " " + "w-full h-full flex justify-center items-center relative transform-style-preserve-3d transition-transform duration-800 ease-[cubic-bezier(0.25,0.46,0.45,0.94)]",
                         children: teamMembers.map((member, index)=>{
                             const position = getCardPosition(index);
                             return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 onClick: ()=>updateCarousel(index),
-                                className: "jsx-a26c7a8607bba6d9" + " " + `absolute w-72 h-96 bg-white rounded-2xl overflow-hidden shadow-xl transition-all duration-800 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] cursor-pointer ${position === 'center' ? 'z-10 scale-110 translate-z-0' : position === 'left-1' ? 'z-5 -translate-x-48 scale-90 -translate-z-25 opacity-90 grayscale' : position === 'left-2' ? 'z-1 -translate-x-96 scale-80 -translate-z-75 opacity-70 grayscale' : position === 'right-1' ? 'z-5 translate-x-48 scale-90 -translate-z-25 opacity-90 grayscale' : position === 'right-2' ? 'z-1 translate-x-96 scale-80 -translate-z-75 opacity-70 grayscale' : 'opacity-0 pointer-events-none'}`,
+                                className: "jsx-46a7749cd42525a1" + " " + `absolute w-72 h-96 bg-white rounded-2xl overflow-hidden shadow-xl transition-all duration-800 ease-[cubic-bezier(0.25,0.46,0.45,0.94)] cursor-pointer ${position === 'center' ? 'z-10 scale-110 translate-z-0' : position === 'left-1' ? 'z-5 -translate-x-48 scale-90 -translate-z-25 opacity-90 grayscale' : position === 'left-2' ? 'z-1 -translate-x-96 scale-80 -translate-z-75 opacity-70 grayscale' : position === 'right-1' ? 'z-5 translate-x-48 scale-90 -translate-z-25 opacity-90 grayscale' : position === 'right-2' ? 'z-1 translate-x-96 scale-80 -translate-z-75 opacity-70 grayscale' : 'opacity-0 pointer-events-none'}`,
                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                                     src: `/Images/${[
                                         'member1.png',
-                                        'member2.jpg',
+                                        'member2.png',
                                         'member3.jpg',
                                         'member4.jpg',
                                         'member5.jpg',
                                         'member6.jpg'
                                     ][index]}`,
                                     alt: member.name,
-                                    className: "jsx-a26c7a8607bba6d9" + " " + "w-full h-full object-cover transition-all duration-800 ease-[cubic-bezier(0.25,0.46,0.45,0.94)]"
+                                    className: "jsx-46a7749cd42525a1" + " " + "w-full h-full object-cover transition-all duration-800 ease-[cubic-bezier(0.25,0.46,0.45,0.94)]"
                                 }, void 0, false, {
                                     fileName: "[project]/src/components/Team.jsx",
                                     lineNumber: 124,
@@ -898,7 +898,7 @@ const TeamCarousel = ()=>{
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                         onClick: ()=>updateCarousel(currentIndex + 1),
-                        className: "jsx-a26c7a8607bba6d9" + " " + "absolute top-1/2 -translate-y-1/2 right-5 bg-black text-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer z-20 transition-all duration-300 text-xl pb-1 hover:bg-orange-500 hover:scale-110",
+                        className: "jsx-46a7749cd42525a1" + " " + "absolute top-1/2 -translate-y-1/2 right-5 bg-black text-white w-10 h-10 rounded-full flex items-center justify-center cursor-pointer z-20 transition-all duration-300 text-xl pb-1 hover:bg-orange-500 hover:scale-110",
                         children: "›"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Team.jsx",
@@ -912,21 +912,21 @@ const TeamCarousel = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "jsx-a26c7a8607bba6d9" + " " + "text-center mt-10 transition-all duration-500 ease-out",
+                className: "jsx-46a7749cd42525a1" + " " + "text-center mt-10 transition-all duration-500 ease-out",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                        className: "jsx-a26c7a8607bba6d9" + " " + "text-4xl font-bold text-black mb-2 relative inline-block",
+                        className: "jsx-46a7749cd42525a1" + " " + "text-4xl font-bold text-black mb-2 relative inline-block",
                         children: [
                             teamMembers[currentIndex].name,
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                className: "jsx-a26c7a8607bba6d9" + " " + "absolute top-full -left-28 w-24 h-0.5 bg-orange-500"
+                                className: "jsx-46a7749cd42525a1" + " " + "absolute top-full -left-28 w-24 h-0.5 bg-orange-500"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team.jsx",
                                 lineNumber: 154,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                className: "jsx-a26c7a8607bba6d9" + " " + "absolute top-full -right-28 w-24 h-0.5 bg-orange-500"
+                                className: "jsx-46a7749cd42525a1" + " " + "absolute top-full -right-28 w-24 h-0.5 bg-orange-500"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team.jsx",
                                 lineNumber: 155,
@@ -939,7 +939,7 @@ const TeamCarousel = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "jsx-a26c7a8607bba6d9" + " " + "text-xl text-gray-500 font-medium opacity-80 uppercase tracking-wider py-2 -mt-3 relative",
+                        className: "jsx-46a7749cd42525a1" + " " + "text-xl text-gray-500 font-medium opacity-80 uppercase tracking-wider py-2 -mt-3 relative",
                         children: teamMembers[currentIndex].role
                     }, void 0, false, {
                         fileName: "[project]/src/components/Team.jsx",
@@ -953,10 +953,10 @@ const TeamCarousel = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "jsx-a26c7a8607bba6d9" + " " + "flex justify-center gap-2 mt-14",
+                className: "jsx-46a7749cd42525a1" + " " + "flex justify-center gap-2 mt-14",
                 children: teamMembers.map((_, index)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                         onClick: ()=>updateCarousel(index),
-                        className: "jsx-a26c7a8607bba6d9" + " " + `w-3 h-3 rounded-full cursor-pointer transition-all duration-300 ${index === currentIndex ? 'bg-orange-500 scale-120' : 'bg-orange-500/20'}`
+                        className: "jsx-46a7749cd42525a1" + " " + `w-3 h-3 rounded-full cursor-pointer transition-all duration-300 ${index === currentIndex ? 'bg-orange-500 scale-120' : 'bg-orange-500/20'}`
                     }, index, false, {
                         fileName: "[project]/src/components/Team.jsx",
                         lineNumber: 165,
@@ -968,8 +968,8 @@ const TeamCarousel = ()=>{
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$styled$2d$jsx$2f$style$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                id: "a26c7a8607bba6d9",
-                children: ".perspective-1000.jsx-a26c7a8607bba6d9{perspective:1000px}.transform-style-preserve-3d.jsx-a26c7a8607bba6d9{transform-style:preserve-3d}.translate-z-0.jsx-a26c7a8607bba6d9{transform:translateZ(0)}.translate-z-25.jsx-a26c7a8607bba6d9{transform:translateZ(-25px)}.translate-z-75.jsx-a26c7a8607bba6d9{transform:translateZ(-75px)}.grayscale.jsx-a26c7a8607bba6d9{filter:grayscale()}@media (width<=768px){h1.jsx-a26c7a8607bba6d9{font-size:4.5rem}.w-72.jsx-a26c7a8607bba6d9{width:200px}.h-96.jsx-a26c7a8607bba6d9{height:280px}.-translate-x-48.jsx-a26c7a8607bba6d9{transform:translate(-120px)}.-translate-x-96.jsx-a26c7a8607bba6d9{transform:translate(-250px)}.translate-x-48.jsx-a26c7a8607bba6d9{transform:translate(120px)}.translate-x-96.jsx-a26c7a8607bba6d9{transform:translate(250px)}.w-24.jsx-a26c7a8607bba6d9{width:50px}.-left-28.jsx-a26c7a8607bba6d9{left:-70px}.-right-28.jsx-a26c7a8607bba6d9{right:-70px}}"
+                id: "46a7749cd42525a1",
+                children: ".perspective-1000.jsx-46a7749cd42525a1{perspective:1000px}.transform-style-preserve-3d.jsx-46a7749cd42525a1{transform-style:preserve-3d}.translate-z-0.jsx-46a7749cd42525a1{transform:translateZ(0)}.translate-z-25.jsx-46a7749cd42525a1{transform:translateZ(-25px)}.translate-z-75.jsx-46a7749cd42525a1{transform:translateZ(-75px)}.grayscale.jsx-46a7749cd42525a1{filter:grayscale()}@media (width<=768px){h1.jsx-46a7749cd42525a1{font-size:4.5rem}.w-72.jsx-46a7749cd42525a1{width:200px}.h-96.jsx-46a7749cd42525a1{height:280px}.-translate-x-48.jsx-46a7749cd42525a1{transform:translate(-120px)}.-translate-x-96.jsx-46a7749cd42525a1{transform:translate(-250px)}.translate-x-48.jsx-46a7749cd42525a1{transform:translate(120px)}.translate-x-96.jsx-46a7749cd42525a1{transform:translate(250px)}.w-24.jsx-46a7749cd42525a1{width:50px}.-left-28.jsx-46a7749cd42525a1{left:-70px}.-right-28.jsx-46a7749cd42525a1{right:-70px}}"
             }, void 0, false, void 0, ("TURBOPACK compile-time value", void 0))
         ]
     }, void 0, true, {
@@ -1948,18 +1948,18 @@ module.exports = __turbopack_context__.r("[project]/node_modules/styled-jsx/dist
 "[project]/node_modules/lucide-react/dist/esm/icons/chevron-down.js [app-client] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
-/**
- * @license lucide-react v0.543.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */ __turbopack_context__.s([
+__turbopack_context__.s([
     "__iconNode",
     ()=>__iconNode,
     "default",
     ()=>ChevronDown
 ]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
+/**
+ * @license lucide-react v0.543.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
 ;
 const __iconNode = [
     [
@@ -1986,18 +1986,18 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$re
 "[project]/node_modules/lucide-react/dist/esm/icons/search.js [app-client] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
-/**
- * @license lucide-react v0.543.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */ __turbopack_context__.s([
+__turbopack_context__.s([
     "__iconNode",
     ()=>__iconNode,
     "default",
     ()=>Search
 ]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
+/**
+ * @license lucide-react v0.543.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
 ;
 const __iconNode = [
     [
@@ -2113,6 +2113,7 @@ function assign(target, ...searchParamsList) {
 "[project]/node_modules/next/dist/shared/lib/router/utils/format-url.js [app-client] (ecmascript)", ((__turbopack_context__, module, exports) => {
 "use strict";
 
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
 // Format function modified from nodejs
 // Copyright Joyent, Inc. and other Node contributors.
 //
@@ -2134,7 +2135,6 @@ function assign(target, ...searchParamsList) {
 // DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
 // OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
 // USE OR OTHER DEALINGS IN THE SOFTWARE.
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$build$2f$polyfills$2f$process$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = /*#__PURE__*/ __turbopack_context__.i("[project]/node_modules/next/dist/build/polyfills/process.js [app-client] (ecmascript)");
 "use strict";
 Object.defineProperty(exports, "__esModule", {
     value: true
@@ -2972,18 +2972,18 @@ module.exports = __turbopack_context__.r("[project]/node_modules/next/dist/clien
 "[project]/node_modules/lucide-react/dist/esm/icons/arrow-right.js [app-client] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
-/**
- * @license lucide-react v0.543.0 - ISC
- *
- * This source code is licensed under the ISC license.
- * See the LICENSE file in the root directory of this source tree.
- */ __turbopack_context__.s([
+__turbopack_context__.s([
     "__iconNode",
     ()=>__iconNode,
     "default",
     ()=>ArrowRight
 ]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
+/**
+ * @license lucide-react v0.543.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$createLucideIcon$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/createLucideIcon.js [app-client] (ecmascript)");
 ;
 const __iconNode = [
     [

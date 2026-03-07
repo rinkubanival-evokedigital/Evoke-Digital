@@ -4,9 +4,9 @@ import { useState, useEffect } from 'react';
 
 const TeamCarousel = () => {
   const teamMembers = [
-    { name: "Rohit Kumar", role: "Founder" },
-    { name: "Ayushi Garg", role: "Visual Designer" },
-    { name: "Emma Rodriguez", role: "Lead Developer" },
+    { name: "Rohit Kumar", role: "Co-Founder" },
+    { name: "Priyanka Gupta", role: "Co-Founder" },
+    { name: "Ayushi Garg", role: "Lead Developer" },
     { name: "Julia Gimmel", role: "UX Designer" },
     { name: "Lisa Anderson", role: "Marketing Manager" },
     { name: "James Wilson", role: "Product Manager" }
@@ -124,7 +124,7 @@ const TeamCarousel = () => {
                 <img
   src={`/Images/${[
     'member1.png',
-    'member2.jpg',
+    'member2.png',
     'member3.jpg',
     'member4.jpg',
     'member5.jpg',

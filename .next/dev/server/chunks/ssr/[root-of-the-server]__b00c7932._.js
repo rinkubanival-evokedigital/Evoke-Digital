@@ -825,7 +825,7 @@ function HeroBanner({ lines, description = "New ways of working. New delivery mo
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                             href: ctaHref,
                             // Adjusted CTA padding for a slightly larger, more accessible button
-                            className: "inline-block rounded-full border border-orange-400 px-8 py-3 text-base font-medium text-white transition-colors hover:border-orange-300 hover:bg-orange-500/20 focus:outline-none focus:ring-2 focus:ring-orange-400/60",
+                            className: "inline-block rounded-full border border-orange-400 px-8 py-3 text-base font-medium text-white transition-colors hover:border-orange-300 hover:bg-orange-500/60 focus:outline-none focus:ring-2 focus:ring-orange-400/60",
                             children: ctaText
                         }, void 0, false, {
                             fileName: "[project]/src/components/HeroBanner.jsx",
@@ -1019,7 +1019,7 @@ function LogoSlider() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo1.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 27,
@@ -1027,7 +1027,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo2.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 28,
@@ -1035,7 +1035,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo3.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 29,
@@ -1043,7 +1043,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo4.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 30,
@@ -1051,7 +1051,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo5.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 31,
@@ -1059,7 +1059,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo1.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 32,
@@ -1067,7 +1067,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo2.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 33,
@@ -1075,7 +1075,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo3.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 34,
@@ -1083,7 +1083,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo4.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 35,
@@ -1091,7 +1091,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo5.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 36,
@@ -1099,7 +1099,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo1.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 37,
@@ -1107,7 +1107,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo2.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 38,
@@ -1115,7 +1115,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo3.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 39,
@@ -1123,7 +1123,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo4.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 40,
@@ -1131,7 +1131,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo5.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 41,
@@ -1139,7 +1139,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo1.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 42,
@@ -1147,7 +1147,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo2.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 43,
@@ -1155,7 +1155,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo3.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 44,
@@ -1163,7 +1163,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo4.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 45,
@@ -1171,7 +1171,7 @@ function LogoSlider() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
                         src: "/logo/logo5.png",
-                        className: "jsx-e646604b9bc598d1" + " " + "h-40 mx-10 inline-block"
+                        className: "jsx-e646604b9bc598d1" + " " + "h-40 w-40 mx-10 inline-block"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Logoslider.jsx",
                         lineNumber: 46,
